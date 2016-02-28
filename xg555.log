@@ -1,0 +1,36 @@
+xg555
+*   17df0fc Merge branch 't1'
+
+|\  
+
+| *   2139670 Merge branch 't2' into t1
+
+| |\  
+
+| * | 790d21b 5 commit 2 t1
+
+* | |   13266c2 Merge branch 't2'
+
+|\ \ \  
+
+| | |/  
+
+| |/|   
+
+| * |   63be1a1 Merge branch 't1' into t2
+
+| |\ \  
+
+| | |/  
+
+| | * f1d0137 4 commit 1 t1
+
+* | | 2ba254c 3 commit 3 master
+
+|/ /  
+
+* | 1060e72 2 commit 2 branch
+
+|/  
+
+* 2a3bd1a 1 commit 1 branch
