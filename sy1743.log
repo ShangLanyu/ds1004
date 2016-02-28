@@ -1,0 +1,19 @@
+sy1743
+*   a7cb831 Merge branch 'test1'
+|\  
+| *   eb4bc12 8th commit (3rd on test1).
+| |\  
+| * | 067aee6 7th commit (2nd on test1).
+* | |   b476337 6th commit (4th on master).
+|\ \ \  
+| | |/  
+| |/|   
+| * |   fe07404 5th commit (2nd on test).
+| |\ \  
+| | |/  
+| | * ebff5b2 4st commit (1st on test1).
+* | | 86646d3 3st commit (3st on master).
+|/ /  
+* | 03478ac 2st commit (st on master).
+|/  
+* 690da84 1st commit (1st on master).
