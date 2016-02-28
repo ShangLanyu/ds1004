@@ -1,0 +1,37 @@
+lk1818
+
+*   95f45ae Merge branch 'test1'
+
+|\  
+
+| *   5689f4d Merge branch 'test2' into test1
+
+| |\  
+
+| * | 356e79c 5 cmt
+
+* | |   d5f24fd Merge branch 'test2'
+
+|\ \ \  
+
+| | |/  
+
+| |/|   
+
+| * |   7a469b9 Merge branch 'test1' into test2
+
+| |\ \  
+
+| | |/  
+
+| | * 1f7afeb 4 cmt
+
+* | | eead614 3 cmt
+
+|/ /  
+
+* | 32dfe45 2 cmt
+
+|/  
+
+* d3af35a 1 cmt
