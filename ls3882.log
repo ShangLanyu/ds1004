@@ -82,8 +82,6 @@ ls3882
 * | 595ed0c 4th commit - 2nd master
 |/  
 * ee021d2 1st commit - 1st master
-<<<<<<< HEAD
-=======
 
 mx419
 *   0912cf7 9 merge br1 7 on master 8
@@ -107,7 +105,6 @@ mx419
 |/  
 * d6ea724 create master
 
->>>>>>> origin
 sl3368
 *   4841fb8 Merge branch 'test'
 |\  
@@ -127,8 +124,6 @@ sl3368
 * | 992bbda 2nd commit(2nd on master)
 |/  
 * 3d5a544 1st commit(1st on master)
-<<<<<<< HEAD
-=======
 
 sy1743
 *   a7cb831 Merge branch 'test1'
@@ -210,7 +205,6 @@ yf511
 |/  
 * 9f80c52 hehe
 
->>>>>>> origin
 yz3085
 *   0a4ff17 5th on master
 |\  
