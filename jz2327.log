@@ -40,64 +40,25 @@ kl1405
 |/  
 * 5836700 kaiwen
 
-ls3882
-*   35567ad 9th commit - 5th master
-|\  
-| *   4335735 8th commit - 3rd b1
-| |\  
-| * | 21e486d 3rd commit - 2nd b1
-* | |   a9bfa60 7th commit - 4th master
-|\ \ \  
-| | |/  
-| |/|   
-| * |   5c77540 6th commit - 1st b2
-| |\ \  
-| | |/  
-| |/|   
-| * | 8556a88 2nd commit - 1st b1
-* | | e1f548e 5th commit - 3rd master
-| |/  
-|/|   
-* | 595ed0c 4th commit - 2nd master
-|/  
-* ee021d2 1st commit - 1st master
-
 lk1818
 
 *   95f45ae Merge branch 'test1'
-
 |\  
-
 | *   5689f4d Merge branch 'test2' into test1
-
 | |\  
-
 | * | 356e79c 5 cmt
-
 * | |   d5f24fd Merge branch 'test2'
-
 |\ \ \  
-
 | | |/  
-
 | |/|   
-
 | * |   7a469b9 Merge branch 'test1' into test2
-
 | |\ \  
-
 | | |/  
-
 | | * 1f7afeb 4 cmt
-
 * | | eead614 3 cmt
-
 |/ /  
-
 * | 32dfe45 2 cmt
-
 |/  
-
 * d3af35a 1 cmt
 
 ls3882
@@ -206,40 +167,22 @@ xc918
 
 xg555
 *   17df0fc Merge branch 't1'
-
 |\  
-
 | *   2139670 Merge branch 't2' into t1
-
 | |\  
-
-
 | * | 790d21b 5 commit 2 t1
-
 * | |   13266c2 Merge branch 't2'
-
 |\ \ \  
-
 | | |/  
-
 | |/|   
-
 | * |   63be1a1 Merge branch 't1' into t2
-
 | |\ \  
-
 | | |/  
-
 | | * f1d0137 4 commit 1 t1
-
 * | | 2ba254c 3 commit 3 master
-
 |/ /  
-
 * | 1060e72 2 commit 2 branch
-
 |/  
-
 * 2a3bd1a 1 commit 1 branch
 
 yf511
