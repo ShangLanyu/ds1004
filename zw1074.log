@@ -19,6 +19,27 @@ ls3882
 * | 595ed0c 4th commit - 2nd master
 |/  
 * ee021d2 1st commit - 1st master
+mx419
+*   0912cf7 9 merge br1 7 on master 8
+|\  
+| *   3fe0cc9 7 merge br2 4 on br1 5
+| |\  
+| * | 756ea15 5 2 on br1
+* | |   f3d8700 8 merge br2 4 on master 6
+|\ \ \  
+| | |/  
+| |/|   
+| * |   1795377 4  merge master to br2
+| |\ \  
+| | |/  
+| |/|   
+| * | 9a1ea63 2 1 on br1
+* | | fcd1924 6 3 on master
+| |/  
+|/|   
+* | 9720ae0 3 2 on master
+|/  
+* d6ea724 create master
 zw1074
 *   213f324 5th on master
 |\  
